@@ -20,6 +20,7 @@ Describe the solution here
 # Checklist:
 
 - [ ] I have included issue key in PR title with this format `<issue-key>-<title>` eg: `SCRUM-182-Modified code`
+- [ ] I have requested for a review.
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my code
 - [ ] I have commented my code, particularly in hard-to-understand areas
